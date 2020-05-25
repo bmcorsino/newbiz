@@ -478,13 +478,13 @@ h6 {
 }
 
 .features .nav-link:hover {
-  color: #ef6603;
+  color: #74b5fc;
 }
 
 .features .nav-link.active {
-  background: #ef6603;
+  background: #74b5fc;
   color: #fff;
-  border-color: #ef6603;
+  border-color: #74b5fc;
 }
 
 @media (max-width: 768px) {
